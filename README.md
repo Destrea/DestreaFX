@@ -5,9 +5,9 @@ For an installation and setup walkthroughs, refer to the [wiki]().
 
 ## Example Screenshots
 ![example1](./Examples/Original.png) <br>
-![example2](./Examples/Outlines.png) <br>
+![example2](./Examples/Outline.png) <br>
 ![example3](./Examples/Palette.png) <br>
-![example4](./Examples/PaletteOutlined.png) <br>
+![example4](./Examples/OutlinedPalette.png) <br>
 
 References: <br>
 https://github.com/crosire/reshade-shaders/tree/slim/Shaders <br>
