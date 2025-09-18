@@ -158,7 +158,7 @@ float3 PS_Toon( float4 position : SV_Position, float2 texcoord : TEXCOORD) : SV_
     return color.rgb;
 }
 
-technique ColorPalette
+technique DestreaFX_ColorPalette
 {
    
 	pass Toon

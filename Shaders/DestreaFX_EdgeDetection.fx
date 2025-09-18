@@ -236,7 +236,7 @@ float4 PS_EdgeDetect( float4 position : SV_Position, float2 texcoord : TEXCOORD)
 
 
 
-technique Destrea_EdgeDetect < ui_label = "Edge detection and Outline"; ui_tooltip = "Approximates edges of an image, and can apply outlines to them."; >
+technique DestreaFX_EdgeDetect < ui_label = "Edge detection and Outline"; ui_tooltip = "Approximates edges of an image, and can apply outlines to them."; >
 {
 
 
