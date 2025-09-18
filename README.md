@@ -3,7 +3,7 @@ Modular post processing shaders built for ReShade, intended for use with Final F
 
 For installation and setup walkthroughs, refer to the [wiki](https://github.com/Destrea/DestreaFX/wiki).
 
-Full comparison imagees can be found [here](https://imgsli.com/NDE2MjQw/2/3).
+Full comparison images can be found [here](https://imgsli.com/NDE2MjQw/2/3).
 
 ## Example Screenshots
 ### Original Image
