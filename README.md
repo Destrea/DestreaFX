@@ -1,7 +1,9 @@
 # DestreaFX
-Modular post processing shaders built for ReShade, intended for use with Final Fantasy XIV gameplay and GPose.
+Modular post processing shaders built for ReShade, intended for use with Final Fantasy XIV gameplay or gpose.
 
-For installation and setup walkthroughs, refer to the [wiki]().
+For installation and setup walkthroughs, refer to the [wiki](https://github.com/Destrea/DestreaFX/wiki).
+
+Full comparison imagees can be found [here](https://imgsli.com/NDE2MjQw/2/3).
 
 ## Example Screenshots
 ### Original Image
@@ -12,6 +14,7 @@ For installation and setup walkthroughs, refer to the [wiki]().
 ![example3](./Examples/Palette.png) <br>
 ### Palette-swapped and outlined
 ![example4](./Examples/OutlinedPalette.png) <br>
+
 
 ### References: <br>
 Normal-map generation from DisplayDepth.fx: https://github.com/crosire/reshade-shaders/tree/slim/Shaders <br>
