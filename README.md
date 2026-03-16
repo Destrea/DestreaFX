@@ -1,7 +1,9 @@
 # DestreaFX
-Modular post processing shaders built for ReShade, intended for use with Final Fantasy XIV gameplay and GPose.
+Modular post processing shaders built for ReShade, intended for use with Final Fantasy XIV gameplay or gpose.
 
-For installation and setup walkthroughs, refer to the [wiki]().
+For installation and setup walkthroughs, refer to the [wiki](https://github.com/Destrea/DestreaFX/wiki).
+
+Full comparison images can be found [here](https://imgsli.com/NDE2MjQw/2/3).
 
 ## Example Screenshots
 
@@ -16,6 +18,7 @@ For installation and setup walkthroughs, refer to the [wiki]().
 ![example4](./Examples/ShaderPaletteND.png) <br>
 #### 2-Tone Black and White
 ![example5](./Examples/ShaderBW.png) <br>
+
 
 ### References: <br>
 Joel Yliluoma's dithering algorithm: https://bisqwit.iki.fi/story/howto/dither/jy/ <br>
